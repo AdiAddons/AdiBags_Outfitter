@@ -1,0 +1,5 @@
+package-as: AdiBags_Outfitter
+
+required-dependencies:
+  - adibags
+  - outfitter

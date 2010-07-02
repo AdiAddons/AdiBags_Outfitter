@@ -1,0 +1,11 @@
+## Interface: 30300
+
+## Title: AdiBags - Outfitter support
+## Notes: Adds Outfitter set filters to AdiBags.
+## Author: Adirelle
+## Version: @project-version@
+## X-Date: @project-date-iso@
+
+## Dependencies: AdiBags, Outfitter
+
+AdiBags_Outfitter.lua
