@@ -86,7 +86,9 @@ function setFilter:UpdateSets()
 end
 
 function setFilter:Filter(slotData)
-	if not Outfitter:IsInitialized() then return end
+	if not Outfitter:IsInitialized() or (slotData.link and strmatch(slotData.link, "battlepet:")) then
+		return
+	end
 	local itemInfo = Outfitter:GetItemInfoFromLink(slotData.link)
 	for name in pairs(setNames) do
 		local outfit = Outfitter:FindOutfitByName(name)
