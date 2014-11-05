@@ -1,4 +1,4 @@
-## Interface: 50100
+## Interface: 60000
 
 ## Title: AdiBags - Outfitter support
 ## Notes: Adds Outfitter set filters to AdiBags.
