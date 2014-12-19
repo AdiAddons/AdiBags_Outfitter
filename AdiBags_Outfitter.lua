@@ -34,7 +34,7 @@ end
 -- The filter itself
 
 -- Use a priority slightly higher than the Gear Manager filter one
-local setFilter = addon:RegisterFilter("OutfitterSets", 92, 'AceEvent-3.0')
+local setFilter = addon:RegisterFilter("OutfitterSets", 92, 'ABEvent-1.0')
 setFilter.uiName = L['Outfitter item sets']
 setFilter.uiDesc = L['Put items belonging to one or more sets of Outfitter in specific sections.']
 
