@@ -1,4 +1,4 @@
-## Interface: 80300
+## Interface: 90001
 
 ## Title: AdiBags - Outfitter support
 ## Notes: Adds Outfitter set filters to AdiBags.
