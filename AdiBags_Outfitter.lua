@@ -1,6 +1,6 @@
 --[[
 AdiBags_Outfitter - Adds Outfitter set filters to AdiBags.
-Copyright 2010-2012 Adirelle (adirelle@gmail.com)
+Copyright 2010-2021 Adirelle (adirelle@gmail.com)
 All rights reserved.
 --]]
 
